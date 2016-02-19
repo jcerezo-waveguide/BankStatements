@@ -1,0 +1,8 @@
+Wachovia, James Bond, 93510, TGH944LOK12, +, E, 300.00, 2016-02-07, cash
+Wachovia, SpongeBob SquarePants, 93601, TGH954LOK12, -, $, 1000.00, 2016-02-07, new business
+Wachovia, Eric Cartman, 93001, TGH964LOK12, +, $, 750.00, 2016-02-06, valentines day
+Wachovia, George Jetson, 93901, TGH974LOK12, +, $, 690.00, 2016-02-06, wedding
+Wachovia, Pink Panther, 93801, TGH984LOK12, +, $, 800.00, 2016-02-06, baby daddy
+Wachovia, Clark Kent, 93701, TGH903LOK12, +, $, 840.00, 2016-02-06, baby mama
+Wachovia, Harry Potter, 90001, TGH902LOK12, +, E, 850.00, 2016-02-06, NA
+Wachovia, Bruce Wayne, 93001, TGH911LOK12, +, $, 600.00, 2016-02-06, NA

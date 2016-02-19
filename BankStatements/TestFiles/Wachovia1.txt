@@ -1,0 +1,4 @@
+Wachovia, Jason Derulo, 93401, TGH904LOK12, +, $, 800.00, 2016-02-04, for new car
+Wachovia, Morris Day, 93402, TGH904LOK12, +, $, 1800.00, 2016-02-04, for new car
+Wachovia, James Brown, 93403, TGH901LOK12, +, $, 2800.00, 2016-02-03, for new house
+Wachovia, Homer Simpson, 93404, TGH604LOK12, +, $, 700.00, 2016-02-05, stock purchase

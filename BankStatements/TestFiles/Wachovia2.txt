@@ -1,0 +1,5 @@
+Wachovia, Charlie Brown, 93405, TGH704LOK12, +, $, 555.00, 2016-02-09, stock purchase
+Wachovia, Fred Flintstone, 93406, TGH804LOK12, -, $, 210.00, 2016-02-08, loan payment
+Wachovia, Barney Rubble, 93407, TGH914LOK12, +, $, 550.00, 2016-02-08, stuff
+Wachovia, Wile E. Coyote, 93408, TGH924LOK12, +, $, 440.00, 2016-02-08, zzzzz
+Wachovia, Rocky Balboa, 93409, TGH934LOK12, +, $, 200.00, 2016-02-07, cash
